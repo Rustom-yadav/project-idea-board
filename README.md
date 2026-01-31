@@ -23,8 +23,7 @@ The UI is represented by structured JavaScript output rather than DOM elements.
 
 📂 GitHub Repository
 
-👉 (Add your repository link here)
-https://github.com/your-username/idea-board-js
+👉 [github repo link](https://github.com/Rustom-yadav/project-idea-board)
 
 ✨ Features
 
